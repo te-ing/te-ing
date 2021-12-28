@@ -1,4 +1,5 @@
-
+<div align="center">
+  
 👋 Hello
   
 <a href="https://programmers.co.kr/job_profiles/edit" target="_blank"><img src="https://img.shields.io/badge/Profile-7890A0?/style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a> <a href="https://velog.io/@te-ing" target="_blank"><img src="https://img.shields.io/badge/Velog-20C393?&style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="mailto:hi2177@naver.com" target="_blank"><img src="https://img.shields.io/badge/hi2177@naver.com-53AA47?/&style=flat-square&logo=Minutemailer&logoColor=white"/></a>  
@@ -8,10 +9,10 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>
 
 
-✏ Learning
+✏ Learning..
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-
+</div>
 
 
 
