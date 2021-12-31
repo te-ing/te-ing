@@ -1,6 +1,6 @@
 👋 Hello
   
-<a href="https://programmers.co.kr/job_profiles/edit" target="_blank"><img src="https://img.shields.io/badge/Profile-7890A0?/style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a> <a href="https://velog.io/@te-ing" target="_blank"><img src="https://img.shields.io/badge/Velog-20C393?&style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="mailto:hi2177@naver.com" target="_blank"><img src="https://img.shields.io/badge/hi2177@naver.com-53AA47?/&style=flat-square&logo=Minutemailer&logoColor=white"/></a>  
+<a href="https://programmers.co.kr/pr/te-ing" target="_blank"><img src="https://img.shields.io/badge/Profile-7890A0?/style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a> <a href="https://velog.io/@te-ing" target="_blank"><img src="https://img.shields.io/badge/Velog-20C393?&style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="mailto:hi2177@naver.com" target="_blank"><img src="https://img.shields.io/badge/hi2177@naver.com-53AA47?/&style=flat-square&logo=Minutemailer&logoColor=white"/></a>  
 
 💪 My Skills
 
