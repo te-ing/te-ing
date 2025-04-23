@@ -1,5 +1,6 @@
 👋 Hello, my
 
+<a href="https://te-ing.dev" target="_blank"><img src="https://img.shields.io/badge/Blog-02040A?&style=flat-square&logo=vercel&logoColor=white"/></a> 
 <a href="https://velog.io/@te-ing" target="_blank"><img src="https://img.shields.io/badge/Velog-20C393?&style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="mailto:hi2177@naver.com" target="_blank"><img src="https://img.shields.io/badge/hi2177@naver.com-53AA47?/&style=flat-square&logo=Minutemailer&logoColor=white"/></a>  
 
 💪 My Skills
